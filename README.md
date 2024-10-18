@@ -52,7 +52,9 @@ plt.show()
 ```
 
 ## Output:
-![Screenshot 2024-08-19 082705](https://github.com/user-attachments/assets/ed1761ba-310a-4bda-8b6d-01ef0a6de3e7)
+![Screenshot 2024-10-18 103559](https://github.com/user-attachments/assets/6459ba8b-0054-4e1b-b4e6-a1f40da60c13)
+![Screenshot 2024-10-18 103421](https://github.com/user-attachments/assets/5dded711-8249-4f70-bffd-b31f0543a4ab)
+
 
 
 ## Result:
